@@ -24,3 +24,8 @@ function App() {
 }
 
 export default App;
+
+//https://github.com/gitname/react-gh-pages
+//https://pages.github.com/
+//https://docs.github.com/en/pages
+//https://create-react-app.dev/docs/deployment/
