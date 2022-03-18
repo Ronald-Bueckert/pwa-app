@@ -1,0 +1,4 @@
+.flatbutton:focus {
+    outline: none;
+    outline-offset: none;
+}
